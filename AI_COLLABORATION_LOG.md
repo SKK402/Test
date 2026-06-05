@@ -3,7 +3,7 @@
 ## Tools Used
 
 * ChatGPT
-* Antigravity
+* Cursor
 
 ---
 
